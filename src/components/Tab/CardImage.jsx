@@ -31,7 +31,7 @@ const CardImage = ({ title, subTitle, src, skill, link, numberOfMembers }) => {
                 </ButtonLink>
               </div>
             :
-            <ButtonLink className="w-8 h-8 mt-2 bg-info rounded-md" href={"https://apps.apple.com/vn/app/truy%E1%BB%87n-full-online-offline/id1552356668"}>
+            <ButtonLink className="w-8 h-8 mt-2 bg-info rounded-md" href={link}>
               <RiLink className="text-base" />
             </ButtonLink> 
           }

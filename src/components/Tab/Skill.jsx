@@ -4,7 +4,7 @@ import SectionSkill from "./SectionSkill";
 const data = [
   {
     title: "Frontend developer",
-    data: [ "HTML", "CSS", "JavaScript", "Bootstrap", "React", "Tailwind CSS" ]
+    data: [ "HTML", "CSS", "JavaScript", "Bootstrap", "React Js", "Next Js", "Tailwind CSS" ]
   }, {
     title: "Backend developer",
     data: [ "Node Js", "Mongo DB", "MySQL", "Elasticsearch" ]
