@@ -5,7 +5,7 @@ const Info = () => {
   return (
     <div className="space-y-5">
       <h2 className="text-xl font-semibold">Nguyễn Đức Bão</h2>
-      <span className="text-muted">Full-Stack Developer</span>
+      <span className="text-muted">Frontend Developer</span>
       <p className="text-sm text-muted md:w-96">
         I have more than 2.5 years of experience in website development. In the near future, I want to become a professional programmer, a good leader.
       </p>
