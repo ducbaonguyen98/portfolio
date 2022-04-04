@@ -11,7 +11,7 @@ const Info = () => {
         is to become a professional full-stack developer.
       </p>
       <div className="flex justify-center items-center gap-3">
-        <a  href={require("../../pdf/Nguyen-Duc-Bao-CV.pdf")}
+        <a  href={require("../../pdf/NGUYEN-DUC-BAO-CV.pdf")}
         download
           className="py-3 px-10 text-white bg-info rounded-md text-sm font-semibold flex justify-center items-center"
         >
